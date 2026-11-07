@@ -1,0 +1,20 @@
+[
+  {
+    "tipo": "aluno",
+    "nome": "Ana",
+    "matricula": 101,
+    "curso": "Engenharia de Software"
+  },
+  {
+    "tipo": "professor",
+    "nome": "Maria",
+    "matricula": 202,
+    "titulacao": "Doutorado"
+  },
+  {
+    "tipo": "funcionario",
+    "nome": "Pedro",
+    "codigo": 303,
+    "salario": 5000.5
+  }
+]
